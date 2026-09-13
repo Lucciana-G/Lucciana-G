@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-#💫 Mitt Webbprojekt 💫#
+#💫 Mitt Webbprojekt 💫
 
 ## Detta är en enkel webbsidan som jag _Lucciana_, har skapat för att testa GitHub och publicering. Som är en del av mina studier webbutveckling i Mittuniversitet.
 
